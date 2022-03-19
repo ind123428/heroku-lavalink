@@ -1,5 +1,5 @@
 # heroku-lavalink
-Easily deploy a [lavalink](https://github.com/tamim0327u/Lavalink) server on heroku.
+Easily deploy a [lavalink](https://github.com/ind123428/Lavalink) server on heroku.
 This approach is minimal, but reliable.
 This branch will automatically download the latest Lavalink jar file.
 
@@ -7,7 +7,7 @@ This branch will automatically download the latest Lavalink jar file.
 *To update your Lavalink.jar, restart all dynos (faster) or redeploy.*
 
 ### One Click Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tamim0327u/heroku-lavalink/tree/auto) <-- Click me!
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ind123428/heroku-lavalink/tree/auto) <-- Click me!
 
 Buildpacks should be added automatically, you may modify the `PASS` variable during setup to change the password.
 
